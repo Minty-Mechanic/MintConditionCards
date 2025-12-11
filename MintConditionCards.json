@@ -1,0 +1,17 @@
+{
+"id": "MintConditionCards",
+"name": "Mint Condition Cards",
+"display_name": "M. Condition",
+"author": ["MintyMechanic"],
+"description": "A \"simple\" joker mod that adds a couple of OC-based jokers, among numerous other things, ranging from \"pretty cool\" to \"flat-out stupid, why did you draw and program this?\" Enjoy.",
+"prefix": "mintconditioncards",
+"main_file": "main.lua",
+"priority": 0,
+"badge_colour": "5ED292",
+"badge_text_colour": "FFFFFF",
+"version": "0.3.0",
+"dependencies": [
+    "Steamodded (>=1.*)",
+    "Lovely (>=0.6)"
+]
+}
